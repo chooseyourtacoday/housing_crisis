@@ -1,0 +1,21 @@
+area_fips,year,county,avg_weekly_wage,avg_annual_pay
+48085,2015,"Collin County, Texas",1185,61631
+48085,2016,"Collin County, Texas",1207,62788
+48085,2017,"Collin County, Texas",1233,64123
+48085,2018,"Collin County, Texas",1286,66886
+48085,2019,"Collin County, Texas",1315,68366
+48085,2020,"Collin County, Texas",1415,73602
+48085,2021,"Collin County, Texas",1495,77726
+48085,2022,"Collin County, Texas",1560,81114
+48085,2023,"Collin County, Texas",1602,83282
+48085,2024,"Collin County, Texas",1694,88091
+48121,2015,"Denton County, Texas",907,47176
+48121,2016,"Denton County, Texas",935,48644
+48121,2017,"Denton County, Texas",964,50121
+48121,2018,"Denton County, Texas",976,50734
+48121,2019,"Denton County, Texas",982,51064
+48121,2020,"Denton County, Texas",1060,55099
+48121,2021,"Denton County, Texas",1125,58500
+48121,2022,"Denton County, Texas",1166,60613
+48121,2023,"Denton County, Texas",1217,63310
+48121,2024,"Denton County, Texas",1262,65626
